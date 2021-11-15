@@ -1,0 +1,201 @@
+"gender","age","performance","education","department","seniority","income","bonus"
+"Male",49,5,"High School","Sales",4,109419,8375
+"Male",49,5,"College","Management",4,106887,8347
+"Male",62,2,"PhD","Engineering",3,138184,4664
+"Female",58,2,"High School","Operations",1,60271,3927
+"Male",42,2,"College","Management",1,103978,5146
+"Female",59,2,"College","Engineering",4,115344,4827
+"Male",34,4,"College","Administration",5,90330,7022
+"Male",64,1,"Masters","Sales",1,109606,2193
+"Male",30,2,"College","Administration",4,83264,6251
+"Female",22,4,"Masters","Administration",4,96045,9129
+"Male",24,1,"PhD","Operations",2,51837,4472
+"Female",19,4,"High School","Operations",1,37026,8636
+"Female",36,1,"Masters","Administration",3,88175,5004
+"Male",65,4,"High School","Management",5,157852,6669
+"Female",20,5,"PhD","Operations",4,70890,10126
+"Male",26,3,"High School","Sales",2,61527,6345
+"Male",51,1,"High School","Engineering",3,89272,2600
+"Female",28,3,"College","Engineering",5,112491,8727
+"Male",63,2,"Masters","Engineering",3,136209,3910
+"Female",48,5,"College","Management",5,111342,10122
+"Female",51,2,"High School","Management",2,79237,4453
+"Male",38,3,"College","Management",3,83774,7127
+"Female",36,3,"Masters","Sales",3,77223,5272
+"Male",45,2,"Masters","Management",2,101273,3817
+"Female",48,2,"College","Administration",3,79765,5329
+"Female",54,2,"Masters","Administration",3,96982,4750
+"Male",42,2,"PhD","Operations",3,90000,4774
+"Male",29,1,"Masters","Operations",3,73142,4712
+"Male",55,5,"College","Management",5,127769,8802
+"Male",44,5,"Masters","Administration",4,119381,9345
+"Male",35,4,"College","Administration",4,90307,7663
+"Male",28,3,"College","Management",3,85986,8160
+"Male",48,1,"High School","Operations",1,92347,2724
+"Female",52,1,"High School","Sales",3,94154,3964
+"Male",30,1,"High School","Sales",5,138163,3415
+"Male",20,2,"PhD","Management",1,49622,5452
+"Female",59,4,"PhD","Management",4,125770,8013
+"Male",53,3,"PhD","Administration",3,111043,5838
+"Female",27,1,"Masters","Administration",2,55560,4449
+"Male",44,3,"PhD","Sales",1,66611,5924
+"Male",47,5,"College","Administration",2,64852,8023
+"Female",42,5,"College","Engineering",5,113640,8762
+"Female",41,4,"College","Sales",3,73989,8780
+"Male",51,4,"PhD","Operations",4,113730,6578
+"Male",18,4,"PhD","Sales",1,56309,7559
+"Male",63,4,"High School","Administration",5,140445,7905
+"Female",24,4,"High School","Administration",5,91049,10375
+"Male",62,3,"Masters","Engineering",4,118314,4892
+"Female",49,1,"PhD","Engineering",1,67089,3078
+"Male",18,5,"High School","Operations",2,55189,9405
+"Male",18,1,"Masters","Management",5,115567,4775
+"Male",55,1,"High School","Management",5,163208,4095
+"Female",23,5,"PhD","Administration",3,46263,9432
+"Female",38,1,"PhD","Engineering",1,53839,3270
+"Male",47,2,"Masters","Operations",4,126239,5396
+"Male",22,2,"High School","Sales",3,72422,5697
+"Female",25,1,"Masters","Management",5,119033,6381
+"Male",31,5,"College","Management",4,82832,9958
+"Male",62,1,"High School","Sales",3,132815,3367
+"Male",31,3,"College","Operations",1,75227,6027
+"Male",31,5,"PhD","Engineering",1,69462,8872
+"Female",32,4,"College","Management",4,78623,9012
+"Female",59,1,"College","Sales",3,110627,2041
+"Male",21,2,"PhD","Operations",3,89648,6573
+"Male",24,5,"PhD","Sales",3,85205,9792
+"Female",57,5,"PhD","Administration",2,86423,8058
+"Male",35,4,"PhD","Operations",5,98900,7960
+"Female",35,5,"PhD","Engineering",5,97376,9564
+"Male",59,1,"PhD","Sales",4,135512,3955
+"Female",53,5,"College","Administration",1,66438,6935
+"Male",48,4,"PhD","Sales",4,143887,7622
+"Male",21,4,"PhD","Engineering",5,132823,9625
+"Male",51,2,"PhD","Sales",1,62600,4300
+"Female",45,1,"High School","Administration",5,106963,5084
+"Female",61,2,"College","Administration",4,114436,4249
+"Female",44,1,"Masters","Administration",2,72248,3634
+"Male",38,3,"Masters","Administration",1,84628,5680
+"Male",55,2,"Masters","Operations",3,95898,4309
+"Male",19,2,"PhD","Management",5,80171,6454
+"Female",43,5,"PhD","Management",3,117554,8369
+"Female",62,4,"Masters","Administration",3,146008,6235
+"Male",42,2,"College","Administration",3,114029,6842
+"Male",61,3,"High School","Management",3,106233,5792
+"Male",36,2,"Masters","Sales",3,134450,5214
+"Female",51,1,"PhD","Sales",5,139141,4969
+"Male",62,5,"College","Administration",5,157410,7840
+"Female",25,4,"Masters","Operations",4,92358,9611
+"Male",20,5,"Masters","Sales",4,108080,10154
+"Female",34,1,"PhD","Operations",3,75316,5861
+"Male",44,4,"High School","Administration",4,83333,7113
+"Male",37,3,"Masters","Management",1,121151,5934
+"Male",59,1,"College","Sales",5,160460,2930
+"Female",28,3,"PhD","Engineering",4,103763,8383
+"Female",41,4,"Masters","Engineering",3,88994,8873
+"Female",20,1,"College","Management",2,76908,4756
+"Female",39,4,"PhD","Operations",2,75901,7402
+"Female",63,3,"College","Sales",2,95795,5723
+"Male",53,4,"High School","Operations",1,89225,5751
+"Male",39,4,"PhD","Management",1,92154,7642
+"Male",24,1,"College","Engineering",3,71371,5220
+"Female",30,4,"Masters","Administration",5,114007,9248
+"Male",32,1,"College","Engineering",5,128680,4677
+"Female",57,4,"College","Operations",3,79674,6993
+"Female",34,3,"High School","Sales",5,79707,7196
+"Female",57,3,"Masters","Operations",3,113274,6186
+"Male",46,5,"High School","Engineering",4,102736,9736
+"Female",39,3,"Masters","Operations",3,91711,6775
+"Male",32,3,"Masters","Engineering",2,69367,6378
+"Male",49,3,"Masters","Administration",1,82277,5460
+"Female",27,2,"College","Operations",2,66377,5803
+"Female",22,4,"Masters","Sales",1,37780,8443
+"Male",49,5,"Masters","Operations",2,72754,8014
+"Female",21,1,"PhD","Management",4,89170,6722
+"Male",26,4,"High School","Management",3,80494,8449
+"Female",41,2,"College","Sales",1,60983,5022
+"Male",50,3,"PhD","Sales",1,119522,4650
+"Female",52,5,"College","Administration",1,66529,7067
+"Male",55,4,"College","Administration",3,112188,6689
+"Male",41,3,"Masters","Administration",4,104314,6611
+"Female",39,4,"PhD","Operations",5,120294,8090
+"Female",18,4,"Masters","Administration",2,42722,8515
+"Female",31,4,"PhD","Operations",5,101154,10324
+"Male",45,5,"High School","Engineering",3,123422,8894
+"Female",53,4,"High School","Operations",3,129885,7314
+"Male",64,2,"Masters","Operations",2,112719,3382
+"Female",28,1,"High School","Management",1,41151,4296
+"Male",53,1,"College","Operations",4,126256,3463
+"Male",31,1,"Masters","Sales",2,93358,3223
+"Female",34,3,"Masters","Management",2,106560,7257
+"Female",41,3,"High School","Administration",2,36972,7058
+"Male",23,2,"College","Management",4,81988,7160
+"Male",45,4,"Masters","Operations",2,89811,6471
+"Female",30,3,"High School","Administration",4,91566,6996
+"Female",48,5,"Masters","Management",1,100115,7679
+"Female",46,4,"College","Administration",4,116758,7744
+"Female",45,4,"College","Operations",2,70846,7404
+"Female",59,1,"Masters","Sales",3,93018,2730
+"Male",64,4,"High School","Operations",3,116774,6160
+"Male",53,5,"PhD","Management",5,126828,9310
+"Male",27,4,"College","Sales",5,114680,8472
+"Male",32,3,"PhD","Sales",4,103908,8109
+"Female",26,1,"High School","Management",1,36585,4373
+"Female",34,3,"High School","Sales",4,108288,7491
+"Male",37,2,"PhD","Operations",1,100819,5390
+"Male",23,1,"High School","Administration",4,92516,5866
+"Female",53,1,"High School","Administration",2,112169,2763
+"Female",56,2,"High School","Sales",3,95995,4045
+"Male",58,1,"PhD","Management",4,179726,4284
+"Female",21,5,"PhD","Operations",3,70643,10033
+"Male",23,5,"Masters","Management",3,83031,10240
+"Female",43,2,"PhD","Sales",3,106452,5346
+"Female",36,5,"Masters","Administration",3,92622,8509
+"Female",60,2,"PhD","Engineering",5,130417,4694
+"Female",52,4,"College","Administration",2,78750,6666
+"Male",58,5,"PhD","Sales",2,129425,7524
+"Male",39,2,"College","Sales",1,61609,3738
+"Female",44,2,"PhD","Management",2,68364,4076
+"Female",64,5,"PhD","Sales",5,128970,7346
+"Female",49,1,"High School","Administration",4,96232,3697
+"Female",54,1,"High School","Engineering",5,112502,3988
+"Female",36,3,"PhD","Sales",3,82755,7325
+"Female",30,5,"Masters","Administration",5,86220,9583
+"Female",57,4,"PhD","Sales",1,90713,6552
+"Male",27,4,"Masters","Engineering",1,66084,7769
+"Female",27,4,"High School","Administration",4,87608,7511
+"Female",62,4,"Masters","Sales",4,155203,7808
+"Female",57,1,"PhD","Operations",2,114141,3746
+"Male",58,5,"High School","Operations",1,86651,7250
+"Male",51,2,"High School","Engineering",1,96023,4148
+"Male",47,5,"College","Operations",3,91905,7614
+"Male",60,1,"High School","Administration",3,106045,3079
+"Female",37,4,"PhD","Administration",3,86036,7567
+"Female",44,1,"College","Sales",3,90474,3530
+"Female",24,5,"College","Administration",5,99545,9949
+"Male",28,3,"Masters","Administration",5,118653,7036
+"Female",50,3,"College","Operations",2,91160,5863
+"Male",65,2,"Masters","Sales",2,128730,3247
+"Male",32,4,"PhD","Engineering",4,90368,8215
+"Female",56,2,"High School","Engineering",3,88820,4289
+"Female",30,4,"High School","Operations",2,40341,7320
+"Female",38,2,"High School","Management",5,71772,5764
+"Female",23,1,"High School","Management",4,78084,5598
+"Male",44,3,"Masters","Management",3,114693,6832
+"Male",24,5,"High School","Administration",1,66168,9242
+"Female",45,3,"Masters","Sales",3,74305,7126
+"Male",40,4,"College","Administration",5,109345,7791
+"Male",43,1,"PhD","Administration",4,107640,3896
+"Male",28,3,"High School","Management",2,68049,6660
+"Female",23,4,"Masters","Engineering",4,59251,8596
+"Female",19,1,"High School","Operations",4,75919,5613
+"Female",26,4,"College","Management",3,63695,8897
+"Female",36,4,"High School","Administration",5,119931,8400
+"Female",62,4,"PhD","Engineering",1,88781,6413
+"Male",43,3,"PhD","Management",2,121949,6739
+"Male",25,3,"College","Engineering",1,43076,5829
+"Male",45,4,"High School","Operations",2,84930,6914
+"Male",53,3,"High School","Management",3,106146,6618
+"Female",28,1,"High School","Engineering",4,104329,4962
+"Female",38,3,"Masters","Management",2,77751,6554
+"Female",45,3,"College","Engineering",4,85161,6682
